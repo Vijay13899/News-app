@@ -3,5 +3,5 @@
 Made using Django, Bootstrap, Requests(News_api)
 
 <div>
-<img src="https://github.com/Vijay13899/News-app/imgs/img1.png>
+<img src="https://github.com/Vijay13899/News-app/blob/main/imgs/img1.png">
 </div>
